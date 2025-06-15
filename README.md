@@ -44,8 +44,3 @@ Dataset Source: [boxoffice.csv](boxoffice.csv)
 - matplotlib
 - scikit-learn
 - xgboost
-
-Install all dependencies via:
-
-```bash
-pip install -r requirements.txt
